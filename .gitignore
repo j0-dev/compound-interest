@@ -25,3 +25,11 @@ venv/
 *.log
 *.tmp
 .DS_Store
+
+# App Packages and Reports
+AppxManifest.xml
+Windows App Certification Report*
+com.joshbirch.growthcalc_*.msix
+
+# Config
+*.yaml
