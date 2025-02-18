@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# PyInstaller build artifacts
+build/
+App/
+*.exe
+*.msix
+*.zip
+*.pkg
+*.pyz
+*.toc
+
+# Virtual environment
+venv/
+.env/
+
+# IDE settings
+.idea/
+*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+.DS_Store
