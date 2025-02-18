@@ -12,6 +12,9 @@ App/
 *.pkg
 *.pyz
 *.toc
+*.spec
+*.tar
+*.gz
 
 # Virtual environment
 venv/
@@ -25,3 +28,6 @@ venv/
 *.log
 *.tmp
 .DS_Store
+
+# Configs
+*.yaml
